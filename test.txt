@@ -1,4 +1,5 @@
 change to the text file
 change 2
 change 3
-change 4 (oh shit this will make a conflict damnnnn)
+change 4
+change 4.5 (oh shit this will make a conflict damnnnn)
